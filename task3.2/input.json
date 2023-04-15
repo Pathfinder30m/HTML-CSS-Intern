@@ -1,0 +1,16 @@
+{
+    "s": 10,
+    "m": 20,
+    "l": 30,
+    "xl": 15,
+    "xxl": 5,
+    "xxxl": 2,
+    "participants": [
+      { "size": "S" },
+      { "size": "M" },
+      { "size": "L" },
+      { "size": "XL" },
+      { "size": "XXL" },
+      { "size": "XXL" }
+
+    ]}  
